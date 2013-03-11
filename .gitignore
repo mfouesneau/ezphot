@@ -1,0 +1,7 @@
+.bzrignore
+*~
+*.tmp
+*.py[co]
+*.cpp
+tmp
+.*swp
